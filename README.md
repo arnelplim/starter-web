@@ -16,3 +16,7 @@ Hello Git.
 How to deploy this crap.  Look at a file that is not committed.
 
 ## How To Contribute
+
+## Copyright
+
+2020 Copyright
