@@ -9,7 +9,7 @@ This is a test. This is only a test.
 ## Purpose
 
 Sample website with plenty of files for demos.
-Hello Git.  
+Hello Git.  Just adding text for rebasing example.
 
 ## Deployment
 
