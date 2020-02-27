@@ -22,4 +22,4 @@ Please fork this repository.
 
 ## Copyright
 
-2020 Copyright
+2020 Copyright.  All rights reserved.
