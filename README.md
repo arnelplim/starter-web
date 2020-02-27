@@ -18,7 +18,7 @@ How to deploy this crap.  Look at a file that is not committed.
 
 ## How To Contribute
 
-Please fork this repository.
+Please fork this repository. Git stash crap.
 
 ## Copyright
 
